@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alibaba/dragonwell8/releases/download/dragonwell-8.3.3-GA/Alibaba_Dragonwell_8.3.3-Experimental_Windows_x64.zip",
+            "url": "https://github.com/alibaba/dragonwell8/releases/download/dragonwell-8.3.3-GA/Alibaba_Dragonwell_8.3.3-Experimental_Windows_x64.tar.gz",
             "hash": "34eacdd1770039cfe7e08ec8bc715e68f7b9b0e7c41d5ac4a10d301196231932"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/alibaba/dragonwell8/releases/download/dragonwell-$version-GA/Alibaba_Dragonwell_$version-Experimental_Windows_x64.zip"
+                "url": "https://github.com/alibaba/dragonwell8/releases/download/dragonwell-$version-GA/Alibaba_Dragonwell_$version-Experimental_Windows_x64.tar.gz"
             }
         },
         "hash": {
